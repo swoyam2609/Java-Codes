@@ -1,4 +1,8 @@
 # Strings
+
+### * Always remmeber that in Java, strings are immutable in nature, once defined, thay can't be changed later *
+
+
 ## Defining a string
 ```java
 String newString = "Swoyam Siddharth";
